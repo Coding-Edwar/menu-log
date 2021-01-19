@@ -1,7 +1,5 @@
 ### End Goal
 
-![](https://static.authw.it/simple-slider.gif)
-
 ## Key Concepts
 - Using `classList` methods (`add`, `remove`, and `toggle`)
 - Semantic HTML (_not as relevant, `div` work just as well_) 
