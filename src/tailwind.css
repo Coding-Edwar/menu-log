@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+
+/**
+    Custom CSS.....
+ */
+.my-bkg {
+    @apply bg-blue-300 text-white;
+}
+
+.sidebar-menu {
+    @apply border-b-2 border-t-2 hover:bg-blue-300 p-4 cursor-pointer;
+}
+
+.show-sidebar {
+    @apply transform duration-500 ease-in-out translate-x-64;
+}
+
+@tailwind utilities;

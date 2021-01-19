@@ -1,0 +1,4 @@
+## Git should nnot track this file
+node_modules
+.idea   
+.vscode
